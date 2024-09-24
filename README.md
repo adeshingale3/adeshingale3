@@ -39,6 +39,6 @@
 <hr/>
 
 <div align="center">
-   <h2> ### 📊 Adesh's Github Stats</h2>
+   <h2> 📊 Adesh's Github Stats</h2>
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=adeshingale3&show_icons=true&theme=radical" alt="Adesh's GitHub stats"/>
 </div>
