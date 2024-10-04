@@ -11,7 +11,7 @@
     🎨 Also love to design unique shit <br>
     😿 How many aura point will you give me if I tell you that I started my coding journey in my last year <br>
     💭 Currently learning frontend developement deeply<br>
-    ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+<!--     ⚡ Fun fact **** -->
  </div>
 <br/>
 
