@@ -1,12 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=adeshingale3.adeshingale3" />
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adesh!;" />
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=200&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Adesh!;" />
 </h1>
 
-<h3 align="center">👩🏻‍💻 Not a complete Software Engineer!!! <br></h3>
+<h3 align="left">👩🏻‍💻 Not a complete Software Engineer!!! <br></h3>
 <br/>
 
-<div align="center">
+<div align="left">
     👨‍🎓 Final Year Computer Science Student<br>
     🎨 Also love to design unique shit <br>
     😿 How many aura point will you give me if I tell you that I started my coding journey in my last year <br>
@@ -15,7 +15,7 @@
  </div>
 <br/>
 
- <div align="center"> 
+ <div align="left"> 
   <a href="mailto:adeshingale600@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -28,9 +28,9 @@
 </div>
 <hr/>
 <br/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,photoshop,dart,flutter" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,java" /><br>
 </div>
@@ -38,7 +38,7 @@
 <br/>
 <hr/>
 
-<div align="center">
+<div align="left">
    <h2> 📊 Adesh's Github Stats</h2>
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=adeshingale3&show_icons=true&theme=radical" alt="Adesh's GitHub stats"/>
 </div>
