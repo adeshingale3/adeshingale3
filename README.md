@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=adeshingale3.adeshingale3" />
-Busy in Final Year Shittt!
+Radhe Radhe 🦚
 <br/>
 <br/>
 
